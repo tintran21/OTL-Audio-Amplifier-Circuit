@@ -23,7 +23,8 @@ We developed two circuit versions
 
 ### Version 2:
 - Uses **3 pairs of Darlington transistors**
-
+**Both versions are stable; in the final report, we chose the circuit with 2 pairs of Darlington transistors**
+  
 ## Tools Used
 - Proteus 8.16 (Circuit simulation and testing)
 - Altium 20.2 (Schematic and PCB Design)

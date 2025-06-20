@@ -23,6 +23,7 @@ We developed two circuit versions
 
 ### Version 2:
 - Uses **3 pairs of Darlington transistors**
+
 **Both versions are stable; in the final report, we chose the circuit with 2 pairs of Darlington transistors**
   
 ## Tools Used

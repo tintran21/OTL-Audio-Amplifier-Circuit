@@ -2,7 +2,7 @@
 
 ## Project Description
 This is a group project aimed at calculating, simulating, designing, and practically implementing a single-ended input OTL amplifier circuit based on given specifications.
-
+(Developed at the end of 2024)
 ## Group Members
 - **tintran21**
 - **thanhtra3105**

@@ -1,15 +1,15 @@
 # 🔊 OTL Audio Amplifier - 30W Single-Ended 🔊
 
-## Project Description
+## 📘 Project Description
 
 This is a group project aimed at calculating, simulating, designing, and practically implementing a single-ended input OTL amplifier circuit based on given specifications. (Developed at the end of 2024)
 
-## Group Members
+## 👥 Group Members
 
 - **tintran21**
 - **thanhtra3105**
 
-## Design Requirements
+## ⚙️ Design Requirements
 
 - Amplifier type: OTL (Output Transformer-Less)
 - Input: Single-ended
@@ -18,28 +18,28 @@ This is a group project aimed at calculating, simulating, designing, and practic
 - Load impedance: 4Ω
 - Total Harmonic Distortion (THD): ≤ 0.2%
 
-## Circuit Versions
+## 🧩 Circuit Versions
 
 We developed two circuit versions
 
-### Version 1
+### 🔹 Version 1
 
 - Uses 2 pairs of Darlington transistors
 
-### Version 2
+### 🔹 Version 2
 
 - Uses 3 pairs of Darlington transistors
 
 Both versions are stable; in the final report, we chose the circuit with 2 pairs of Darlington transistors
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Proteus 8.16 (Circuit simulation and testing)
 - Altium 20.2 (Schematic and PCB Design)
 
-## Software Installation Guides
+## 💻 Software Installation Guides
 
-### Proteus 8.16
+### 🔧 Proteus 8.16
 
 - Website: https://www.labcenter.com/
 - Purpose: Circuit simulation, transient analysis, and signal verification.
@@ -48,7 +48,7 @@ Both versions are stable; in the final report, we chose the circuit with 2 pairs
   - Install ISIS and ARES modules.
   - Use a valid educational or student license.
 
-### Altium Designer 20.2
+### 🔧 Altium Designer 20.2
 
 - Website: https://www.altium.com/
 - Purpose: Schematic capture and PCB layout.
@@ -57,11 +57,11 @@ Both versions are stable; in the final report, we chose the circuit with 2 pairs
   - Install required PCB and library components.
   - Activate using student or trial license.
   
-## Reference Books
+## 📚 Reference Book
 
 - Jaeger, R. C., Blalock, T. N., *Microelectronic Circuit Design*, 4th Edition, McGraw-Hill.
 
-## Contacts
+## 📬 Contacts
 
 - Email: trantin2114@gmail.com
 - Email: TPA3105@gmail.com

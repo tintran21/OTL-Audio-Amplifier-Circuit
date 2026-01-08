@@ -6,8 +6,8 @@ This is a group project aimed at calculating, simulating, designing, and practic
 
 ## Group Members
 
-- tintran21
-- thanhtra3105
+- ## tintran21
+- ## thanhtra3105
 
 ## Design Requirements
 

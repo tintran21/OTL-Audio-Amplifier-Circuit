@@ -34,29 +34,21 @@ Both versions are stable; in the final report, we chose the circuit with 2 pairs
 
 ## 🛠️ Tools Used
 
-- Proteus 8.16 (Circuit simulation and testing)
-- Altium 20.2 (Schematic and PCB Design)
+### Proteus 8.16 
 
-## 💻 Software Installation Guides
-
-### 🔧 Proteus 8.16
-
-- Website: https://www.labcenter.com/
 - Purpose: Circuit simulation, transient analysis, and signal verification.
 - Installation notes:
-  - Download Proteus 8.x from the official website.
-  - Install ISIS and ARES modules.
+  - Download Proteus 8.16.x or higher version from the official website.
   - Use a valid educational or student license.
+  
+### Altium 20.2 
 
-### 🔧 Altium Designer 20.2
-
-- Website: https://www.altium.com/
 - Purpose: Schematic capture and PCB layout.
 - Installation notes:
   - Download Altium Designer 20.x.
-  - Install required PCB and library components.
+  - Install required library components.
   - Activate using student or trial license.
-  
+
 ## 📚 Reference Book
 
 - Jaeger, R. C., Blalock, T. N., *Microelectronic Circuit Design*, 4th Edition, McGraw-Hill.

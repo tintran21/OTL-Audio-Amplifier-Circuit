@@ -25,10 +25,16 @@ We developed two circuit versions
 ### 🔹 Version 1
 
 - Uses 2 pairs of Darlington transistors
+  
+<img width="766" height="308" alt="image" src="https://github.com/user-attachments/assets/dfd4769e-d909-4964-8e92-780fb7953b2f" />
+
 
 ### 🔹 Version 2
 
 - Uses 3 pairs of Darlington transistors
+
+<img width="766" height="291" alt="image" src="https://github.com/user-attachments/assets/3db02d9a-266b-4709-acec-5a9c88c6e0ef" />
+
 
 Both versions are stable; in the final report, we chose the circuit with 2 pairs of Darlington transistors
 

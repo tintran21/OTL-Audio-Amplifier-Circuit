@@ -26,7 +26,7 @@ We developed two schematic versions
 
 - Uses 2 pairs of Darlington transistors
   
-<img width="776" height="308" alt="schematic2" src="https://github.com/user-attachments/assets/e2968ecc-604a-40d7-8e9c-7b2a002eebb5" />
+<img width="1400" height="700" alt="schematic2" src="https://github.com/user-attachments/assets/e2968ecc-604a-40d7-8e9c-7b2a002eebb5" />
 
 ### 🔹 Version 2
 

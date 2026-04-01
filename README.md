@@ -18,6 +18,22 @@ This is a group project aimed at calculating, simulating, designing, and practic
 - Load impedance: 4Ω
 - Total Harmonic Distortion (THD): ≤ 0.2%
 
+## Schematic Versions
+
+We developed two schematic versions
+
+### 🔹 Version 1
+
+- Uses 2 pairs of Darlington transistors
+  
+<img width="776" height="308" alt="schematic2" src="https://github.com/user-attachments/assets/e2968ecc-604a-40d7-8e9c-7b2a002eebb5" />
+
+### 🔹 Version 2
+
+- Uses 3 pairs of Darlington transistors
+  
+<img width="1531" height="881" alt="schematic3" src="https://github.com/user-attachments/assets/55eace8c-72dc-4583-a4d1-5192fea4a321" />
+
 ## Circuit Versions
 
 We developed two circuit versions

@@ -56,12 +56,12 @@ Both versions are stable; in the final report, we chose the circuit with 2 pairs
 
 ## Actual Product
 
-### PCB Layout
+### 🔹 PCB Layout
 
 <img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/c3c5cabf-411d-45c9-9d25-ada8db725c83" />
 
 
-### Assembled PCB
+### 🔹 Assembled PCB
 
 <img width="430" height="300" alt="image" src="https://github.com/user-attachments/assets/5f92e3e4-8222-4c0f-818e-3c7c25251cf2" />
 
